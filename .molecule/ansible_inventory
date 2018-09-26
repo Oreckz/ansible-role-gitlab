@@ -1,0 +1,5 @@
+[all]
+ansible-role-gitlab ansible_connection=docker
+
+[group1]
+ansible-role-gitlab
